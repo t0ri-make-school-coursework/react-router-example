@@ -1,0 +1,17 @@
+ul {
+  width: 60vw;
+  margin: 5vh auto;
+
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  align-items: baseline;
+
+  list-style-type: none;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
